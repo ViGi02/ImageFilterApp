@@ -1,10 +1,10 @@
 # Image Filter App
 
-A simple JavaFX application that allows users to upload images, apply filters like Grayscale, Invert Colors, and Sepia, and save the modified images. Perfect for exploring basic image processing and JavaFX GUI design.
+A simple JavaFX application that allows users to upload images, apply filters like Grayscale, Invert Colours, and Sepia, and save the modified images. Perfect for exploring basic image processing and JavaFX GUI design.
 
 ## Features
 - Upload an image
-- Apply filters: Grayscale, Invert Colors, Sepia
+- Apply filters: Grayscale, Invert Colours, Sepia
 - Save the filtered image
 - Exit
 
