@@ -22,6 +22,6 @@ This is a JavaFX application that applies filters to images.
 2. Navigate to the project folder:
 
    ```bash
-  cd image-filter-app
+   cd image-filter-app
 
 3. Compile and run the project using your IDE (e.g., Eclipse or IntelliJ) or via the command line.
